@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
+#ana-sayfa-body {
+    text-align: center;
+    list-style-position: inside;
+    padding: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+ul {
+    display: inline-block;
+  }
+
+  h1 {
+      color: tomato;
+  }
+
+  h2 {
+      color: violet;
+  }
+
+  h3 {
+      color: yellowgreen;
+  }
+
+  b {
+      word-spacing: 20px;
+  }
+
+  #urunler-body {
+    text-align: center;
+    list-style-position: inside;
+    padding: 20px;
+    font-family: 'Poppins', sans-serif;
+  }
+  #about-body{
+    text-align: center;
+    list-style-position: inside;
+    padding: 20px;
+    font-family: 'Poppins', sans-serif;
+
+  }
